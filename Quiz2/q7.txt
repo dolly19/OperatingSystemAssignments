@@ -1,0 +1,3 @@
+Yes,the system is in a safe state.
+Following is the SAFE sequence
+P0 -> P3 -> P4 -> P1 -> P2

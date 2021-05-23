@@ -1,0 +1,1 @@
+I would use real mode(16-bit mode) to run the program, as with such a low 320 KB, RAM won't help us store more data. There is no need to use long mode (64-bit mode) because being faster takes up a lot of memory and makes it unsuitable for running the program.
